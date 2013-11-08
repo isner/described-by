@@ -15,11 +15,12 @@
 
   Invoke the function:
 
+    var describedBy = require('described-by');
     describedBy(described, descriptor);
 
-  where `described {HTMLElementList|Array}` is one or more input elements to which you wish to assign a new "aria-describedby" token,
+  where `described {HTMLElementList|Array}` is one or more HTML elements to which you wish to assign a new "aria-describedby" attribute token,
 
-  and `descriptor {HTMLElementList|Array}` is one or more help-text elements to be used as aria descriptors of the inputs passed in to the {described} parameter.
+  and where `descriptor {HTMLElementList|Array}` is one or more HTML elements to be used as aria descriptors of the inputs passed in to the `described` parameter.
 
 ## License
 
