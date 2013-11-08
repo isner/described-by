@@ -8,7 +8,7 @@
     "stephenmathieson/rndid": "0.0.3"
     },
   "development": {
-    "visionmedia/mocha": "*"
+    "component/assert": "*"
     },
   "license": "MIT",
   "main": "index.js",
