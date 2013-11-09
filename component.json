@@ -3,7 +3,11 @@
   "repo": "isner/described-by",
   "description": "Associates one or more inputs with one or more instances of informative help-text using the \"aria-describedby\" attribute",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "aria",
+    "describedby",
+    "attribute"
+  ],
   "dependencies": {
     "stephenmathieson/rndid": "0.0.3"
     },
