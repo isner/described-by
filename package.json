@@ -1,5 +1,5 @@
 {
-  "name": "described-by",
+  "name": "describedBy",
   "version": "0.0.1",
   "author": "isner <isnerms@gmail.com>",
   "description": "",
@@ -14,9 +14,9 @@
     "url": "https://github.com/isner/described-by.git"
   },
   "devDependencies": {
-    "mocha": "*",
     "mocha-phantomjs": "~3.1.6",
-    "serve": "~1.3.0"
+    "serve": "~1.3.0",
+    "mocha": "~1.14.0"
   },
   "license": "MIT",
   "engines": {
