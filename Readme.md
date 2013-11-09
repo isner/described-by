@@ -1,5 +1,5 @@
 
-# described-by
+# describedBy()
 
   Associates one or more inputs with one or more
   instances of informative help-text using the
@@ -42,11 +42,11 @@
 
 ### Parameters
 
-  `described` HTMLElementList or Array
+  `described` ElementList or Array
 
-   One or more HTML elements to which you wish to assign a new "aria-describedby" attribute token,
+   One or more HTML elements to which you wish to assign a new "aria-describedby" attribute token.
 
-  `descriptor` HTMLElementList or Array
+  `descriptor` ElementList or Array
 
   One or more HTML elements to be used as aria descriptors of the inputs passed in to the `described` parameter.
 
